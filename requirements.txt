@@ -1,0 +1,7 @@
+Flask
+pandas
+openai
+chat2plot
+langchain-community
+plotly
+python-dotenv
